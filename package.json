@@ -1,0 +1,26 @@
+{
+    "name": "theme-nothing",
+    "displayName": "Nothing",
+    "description": "A Theme without Colours",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkhl/Nothing.tmTheme.git"
+    },
+    "publisher": "mkhl",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nothing",
+                "uiTheme": "vs",
+                "path": "./Themes/Nothing.tmTheme"
+            }
+        ]
+    }
+}

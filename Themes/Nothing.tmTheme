@@ -21,6 +21,10 @@
 				<string>#000000</string>
 				<key>foreground</key>
 				<string>#333333</string>
+				<key>guide</key>
+				<string>#BFBFBF</string>
+				<key>inactiveSelection</key>
+				<string>#565A6D30</string>
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
